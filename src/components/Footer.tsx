@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center">
           <p className="text-slate-400">
-  © 2024 AI Spectrum - Alpha Intelligence Group
+  © 2025 AI Spectrum - Alpha Intelligence Group
 </p>
         </div>
       </div>
