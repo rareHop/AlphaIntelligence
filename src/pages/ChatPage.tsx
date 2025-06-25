@@ -250,8 +250,7 @@ const ChatPage: React.FC = () => {
         {/* API Key Notice */}
         <div className="mt-6 p-4 bg-yellow-600/20 border border-yellow-500/30 rounded-lg">
           <p className="text-yellow-200 text-sm">
-            <strong>Note:</strong> To use the AI chatbot, you need to add your Gemini API key in the ChatPage.tsx file. 
-            Get your free API key from <a href="https://makersuite.google.com/app/apikey" target="_blank" rel="noopener noreferrer" className="underline">Google AI Studio</a>.
+            <strong>Note:</strong> Use the Chatbot In less Amount , Currently in Development.
           </p>
         </div>
       </div>
