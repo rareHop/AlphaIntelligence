@@ -17,7 +17,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/topic/:id" element={<TopicDetail />} />
           <Route path="/chat" element={<ChatPage />} />
-          <Route path="/games" element={<Games />} />
+         
         </Routes>
         
         <Footer />
